@@ -1,0 +1,2 @@
+# kigo-design-assets
+Repositorio público que contiene los recursos oficiales de la marca Kigo (iconos, logotipos y recursos visuales) para su uso en la web, dispositivos móviles, paneles de control e interfaces generadas por IA.
